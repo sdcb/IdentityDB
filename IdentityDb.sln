@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28705.295
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Sdcb.AspNetCore.Identity.Database", "BetterOwner-DB\Sdcb.AspNetCore.Identity.Database.sqlproj", "{F13A316B-BF97-479E-94E3-D34981BEA21C}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Sdcb.AspNetCore.Identity.Database", "Sdcb.AspNetCore.Identity.Database\Sdcb.AspNetCore.Identity.Database.sqlproj", "{F13A316B-BF97-479E-94E3-D34981BEA21C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

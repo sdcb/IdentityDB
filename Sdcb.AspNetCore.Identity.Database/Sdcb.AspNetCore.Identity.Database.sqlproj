@@ -11,8 +11,8 @@
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>BetterOwner_DB</RootNamespace>
-    <AssemblyName>BetterOwner_DB</AssemblyName>
+    <RootNamespace>IdentityDB</RootNamespace>
+    <AssemblyName>IdentityDB</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
